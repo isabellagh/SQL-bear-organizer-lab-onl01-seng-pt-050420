@@ -1,6 +1,3 @@
-CREATE TABLE bears (
-  id INTEGER PRIMARY KEY,
-  name TEXT,);
-  
 
-INSERT INTO bears (name) VALUES (null);
+
+INSERT INTO bears (8.times name) VALUES (null);
