@@ -1,1 +1,1 @@
-INSERT INTO bear (name) VALUES ();
+INSERT INTO bear (name) VALUES (null);
