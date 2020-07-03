@@ -1,2 +1,2 @@
 
-INSERT INTO bears (name) VALUES (null);
+INSERT INTO bears (name) WHERE name IS NULL;
